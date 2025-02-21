@@ -1,3 +1,8 @@
 Test info
+<<<<<<< HEAD
 
+=======
+Test info 2
+Test info 3
+>>>>>>> 411cad6 (Update info.txt)
 
